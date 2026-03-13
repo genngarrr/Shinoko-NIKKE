@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/genngarrr/HoYoSuck-NIKKE/blob/main/cool.jpg" width="420"/>
+<img src="https://github.com/genngarrr/HoYoSuck-NIKKE/blob/main/cool.jpg" width="320"/>
 
-# HoYoSuck-HIKKE
+# HoYoSuck-NIKKE
 
 
 <a href="https://discord.gg/MAfNE4rppc">
