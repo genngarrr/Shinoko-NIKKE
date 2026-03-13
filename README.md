@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" width="420"/>
+<img src="https://github.com/genngarrr/HoYoSuck-NIKKE/blob/main/cool.jpg" width="420"/>
 
 # HoYoSuck-HIKKE
 
