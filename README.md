@@ -2,7 +2,7 @@
 
 <img src="https://github.com/genngarrr/HoYoSuck-NIKKE/blob/main/cool.jpg" width="320"/>
 
-# HoYoSuck-NIKKE
+# Sninoko-NIKKE
 
 
 <a href="https://discord.gg/MAfNE4rppc">
