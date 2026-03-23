@@ -24,7 +24,7 @@
 ### Combat
 - Instant Kill
 - God Mode
-- Freeze Inactive Characters(not tested)
+- Disable cp suppression
 
 ### Weapon 
 - Damage Multiplier
@@ -32,7 +32,6 @@
 
 ### Skills 
 - No Skill Cooldown
-- Instant Burst Fill(not tested)
 
 
 
