@@ -23,10 +23,8 @@
 
 ### Combat
 - Instant Kill
-- Auto Win(not tested)
 - God Mode
 - Freeze Inactive Characters(not tested)
-- Disable Anti-Cheat in battle(I'm not sure it works)
 
 ### Weapon 
 - Damage Multiplier
